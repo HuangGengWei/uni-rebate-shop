@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "q-stabs": "/components/QS-tabs/QS-tabs"
+  }
+}
