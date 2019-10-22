@@ -574,7 +574,6 @@
 			QStabs
 		},
 		onLoad() {
-
 		},
 		methods: {
 			change(index) {

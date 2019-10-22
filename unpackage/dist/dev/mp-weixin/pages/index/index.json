@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "uni-app",
+  "navigationBarTitleText": "精选",
   "usingComponents": {
     "q-stabs": "/components/QS-tabs/QS-tabs"
   }

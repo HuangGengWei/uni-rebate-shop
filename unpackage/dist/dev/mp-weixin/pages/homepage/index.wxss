@@ -1,0 +1,121 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 	*{
+		box-sizing: border-box;
+	} */
+.header_bg{
+		width: 100%;
+		min-height: 200px;
+		background: #FFFFFF;
+		text-align: center;
+}
+.avatar{
+		height: 80px;
+		width: 80px;
+		border-radius: 50%;
+		/* background: #4CD964; */
+		margin-top: 20px;
+}
+.name{
+		font-size: 20px;
+		color: #000000;
+		font-family: "SimHei";
+		margin-top: 10px;
+}
+.content {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-flex-wrap: wrap;
+		    -ms-flex-wrap: wrap;
+		        flex-wrap: wrap;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		/* background: white; */
+		
+		position: relative;
+		top: -50px;
+		
+		text-align: center;
+}
+.content ._div{
+		margin: 10px;
+		background: rgb(251,251,251);
+		width: 40%;
+		height: 400rpx;
+		border-radius: 10px;
+		-webkit-box-shadow: 0 1px 1px -0.5px #00000070;
+		        box-shadow: 0 1px 1px -0.5px #00000070;
+}
+.content ._div image{
+		padding: 20px;
+		width: 50px;
+		height: 50px;
+}
+.text{
+		font-size: 10px;
+		font-family: "SimHei";
+		letter-spacing: 1px;
+}
+
